@@ -1,0 +1,78 @@
+body{
+	background-color:  hsla(89, 43%, 51%, 0.3);
+	border-style: dotted;
+}
+
+
+h1
+{
+text-shadow:3px 1px orange;
+text-align: center;
+padding-top: 2%;
+}
+
+.one{
+	float: left;
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+}
+.two{
+	float: right;
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+}
+
+
+
+marquee{
+	padding-top: 1%;
+	color: indianred;
+}
+div{
+	padding-top: 1%;
+	
+}
+
+body{
+	position: relative;
+}
+
+h3{
+	color: blue;
+
+}
+.b1{
+	background-color: brown;
+	border-radius: 5px;
+
+}
+.b1:hover{
+	box-shadow: 0 0 30px orange;
+}
+
+.b2{
+	background-color: brown;
+	border-radius: 5px;
+
+}
+.b2:hover{
+	box-shadow: 0 0 30px orange;
+}
+
+.b3{
+	background-color: brown;
+	border-radius: 5px;
+
+}
+.b3:hover{
+	box-shadow: 0 0 30px orange;
+}
+.f1{
+	text-align: center;
+	background-color: blue;
+	color: orange;
+}
+
+
